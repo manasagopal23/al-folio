@@ -1,18 +1,18 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Manasa</strong> Gopal
+description: <a href="">About me</a>I am Manasa
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>44 W 4th Street</p>
+    <p>Suite 9-197 I </p>
+    <p>New York, New York -10012</p>
 
-news: true
+news: false
 social: true
 ---
 
