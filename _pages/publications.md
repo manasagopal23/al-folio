@@ -4,5 +4,5 @@ permalink: /Publications/
 title: Publications
 years: [2019]
 ---
-{% bibliography -f papers -q @*[year={{y}}]* %}
+{% bibliography -f papers -q %}
 
