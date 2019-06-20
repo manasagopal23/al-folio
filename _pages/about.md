@@ -16,4 +16,4 @@ news: false
 social: true
 ---
 
-I am a PhD Candidate in Finance at NYU Stern 
+I am a PhD Candidate in Finance at NYU Stern. My research interests lie in empirical banking and corporate finance.  
